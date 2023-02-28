@@ -21,6 +21,7 @@
     "forever": "^4.0.3",
     "forever-monitor": "^3.0.3",
     "jsonwebtoken": "^9.0.0",
+    "pg": "^8.9.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.29.0"
   },
